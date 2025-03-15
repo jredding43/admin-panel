@@ -12,4 +12,7 @@ Tech Stack
 
 The frontend is built using React (TypeScript), which makes things more structured and scalable. Styling is handled with TailwindCSS, making the UI responsive and easy to tweak. Axios takes care of API requests, and React Router makes navigation smooth.
 
-On the backend, Node.js and Express.js handle the server-side logic, while PostgreSQL stores all the data. Prisma is used as an ORM to simplify database interactions. Authentication is done using JWT, making sure users only get access to what they should. The whole backend is deployed on Render, so it’s easy to maintain and update.
+On the backend, Node.js and Express.js handle the server-side logic, while PostgreSQL stores all the data. Prisma is used as an ORM to simplify database interactions. Authentication is done using JWT, making sure users only get access to what they should. so it’s easy to maintain and update.
+
+
+This is for personal use and testing for a different site that is up and running.  Everything is set to run locally and not in production.
